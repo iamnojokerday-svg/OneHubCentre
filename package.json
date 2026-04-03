@@ -1,0 +1,27 @@
+{
+  "name": "onehubcentre",
+  "version": "1.0.0",
+  "description": "OneHubCentre Legal Facilitator - PAN India CSC, GST, Aadhaar services",
+  "main": "index.html",
+  "scripts": {
+    "dev": "serve -s .",
+    "build": "echo 'Static site - no build required'",
+    "preview": "serve -s ."
+  },
+  "keywords": [
+    "legal",
+    "facilitator",
+    "CSC",
+    "GST",
+    "ITR",
+    "property"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vercel/speed-insights": "^1.0.12"
+  },
+  "devDependencies": {
+    "serve": "^14.2.1"
+  }
+}
