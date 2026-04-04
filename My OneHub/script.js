@@ -1,4 +1,3 @@
-// This should be on your server, NOT in the HTML
 const axios = require('axios');
 
 app.post('/api/create-order', async (req, res) => {
